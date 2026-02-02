@@ -8,7 +8,8 @@ A system with a selling module that includes accurate computations, clear produc
 📱 Application Features
 
 🧮 Sales & Computation Page
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/ceac8cd9-00c8-403a-8ce0-c2cb6f44437b" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/f30da8b9-a60d-487b-a523-83548578af5c" />
+
 
 The first page is used for selling products with automatic computations.
 Products are organized by categories. For example, when the Drinks category is selected, only drink products will be displayed.
@@ -36,7 +37,7 @@ Features include:
 This helps prevent selling expired products and keeps inventory organized.
 
 📊 Sales Report
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/687cdc3a-9df1-4b83-ab4a-6334e40a4f34" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d947b46e-fd5c-4cb5-a8b2-82fc3793556a" />
 
 The third page displays the Sales Report, showing total sales and profit within a selected time range, such as:
 - Daily
