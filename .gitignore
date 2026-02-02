@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # databases
 *.db
 
@@ -9,6 +10,12 @@ __pycache__/
 desktop.ini
 
 # build output (pyinstaller)
+=======
+*.db
+__pycache__/
+*.pyc
+desktop.ini
+>>>>>>> 27fcf5449ba6352da32f02f57641d7b7bc583a25
 dist/
 build/
 *.spec
