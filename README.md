@@ -22,7 +22,7 @@ Products are organized by categories. For example, when the Drinks category is s
 - All computations are handled automatically to ensure fast, accurate, and efficient transactions.
 
 ⏰ Product Expiration Management
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/6ea8da84-9f69-4958-82e4-69a82e644022" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/55d33ca7-04b8-46d4-a2a9-c29727fd7666" />
 
 
 
